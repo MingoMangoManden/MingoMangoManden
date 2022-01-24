@@ -2,11 +2,11 @@
 ## I'm currently working on a Chess game in Java and learning intermediate Java.
 
 ### Things I've worked/working on:
-  #### A Minecraft plugin called WeirdItems
-  #### Chess game in Java
-  #### DoggoBot (Discord AI Bot)
-  #### boop-monke (My first Electron app)
-  #### color-picker (A program made to determine your favorite color)
+  #### - A Minecraft plugin called WeirdItems
+  #### - Chess game in Java
+  #### - DoggoBot (Discord AI Bot)
+  #### - boop-monke (My first Electron app)
+  #### - color-picker (A program made to determine your favorite color)
 
 
 æøå
