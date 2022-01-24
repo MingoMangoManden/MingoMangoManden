@@ -1,5 +1,4 @@
-# Hi!
-## I'm currently working on a Chess game in Java and learning intermediate Java.
+# Greetings.
 
 ### Things I've worked/working on:
   #### - A Minecraft plugin called WeirdItems
