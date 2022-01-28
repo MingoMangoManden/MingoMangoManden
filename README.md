@@ -7,7 +7,7 @@
   ##### - boop-monke (My first Electron app)
   ##### - color-picker (A program made to determine your favorite color)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MingoMangoManden&theme=knight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MingoMangoManden&theme=dracula&count_private=true)
 
 æøå
 
