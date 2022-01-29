@@ -2,10 +2,10 @@
 
 ### Things I've worked/working on:
   ##### - A Minecraft plugin called WeirdItems
-  ##### - Chess game in Java
+  ##### - Chess game in Java (still a work in progress)
   ##### - DoggoBot (Discord AI Bot)
   ##### - boop-monke (My first Electron app)
-  ##### - color-picker (A program made to determine your favorite color)
+  ##### - color-picker (A program made to determine your favorite color) (still a work in progress)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MingoMangoManden&theme=dark&count_private=true)
 
