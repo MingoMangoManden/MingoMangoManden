@@ -1,6 +1,6 @@
 # Greetings.
 
-### Projects:
+## Projects:
 - A Minecraft plugin called WeirdItems
 - Chess game in Java (still a work in progress)
 - DoggoBot (Discord AI Bot)
@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MingoMangoManden&layout=compact&theme=dark&count_private=true)
 
-I have experience in:
+##I have experience in:
 </p>
  <!---->
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
