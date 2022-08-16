@@ -1,5 +1,5 @@
 # Greetings.
-I'm just a guy chasing ideas and creating some shit.
+I'm just a guy chasing random ideas and creating some shit.
 
 <!--
 percentage project language something
